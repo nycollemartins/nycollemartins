@@ -27,8 +27,11 @@ Projetos de design criativos que desafiem os limites da interação do usuário
 📫 Como me encontrar:
 
 LinkedIn: https://www.linkedin.com/in/nycolle-martins-ads/
+
 GitHub: https://github.com/nycollemartins
+
 Telefone:(32)999776018
+
 Email: nycolleocmartins@gmail.com
 
 😄 Pronomes: Ela/Dela
