@@ -30,9 +30,10 @@ LinkedIn: https://www.linkedin.com/in/nycolle-martins-ads/
 
 GitHub: https://github.com/nycollemartins
 
-Telefone:(32)999776018
-
 Email: nycolleocmartins@gmail.com
+
+Telefone: (32)999776018
+
 
 😄 Pronomes: Ela/Dela
 
