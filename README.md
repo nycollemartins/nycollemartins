@@ -54,10 +54,11 @@ Email: nycolleocmartins@gmail.com
 Telefone: (32)999776018
 
 
-😄 Pronomes: Ela/Dela
+🌐 Linguagens de Programação
 
 
-⚡ Fato curioso: Amo viajar e explorar novas culturas através da culinária local e de lugares escondidos. Também tenho uma paixão por fotografia e frequentemente documento minhas aventuras através das minhas lentes!
-
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 
 Sinta-se à vontade para se conectar comigo se você compartilhar interesses semelhantes ou se estiver interessado em colaborar em um projeto. Vamos inovar e criar algo incrível juntos!
