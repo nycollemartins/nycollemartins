@@ -60,5 +60,7 @@ Telefone: (32)999776018
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 - ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+- ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
+- ![Canvas](https://img.shields.io/badge/-Canvas-black?style=for-the-badge&logo=canva)
 
 Sinta-se à vontade para se conectar comigo se você compartilhar interesses semelhantes ou se estiver interessado em colaborar em um projeto. Vamos inovar e criar algo incrível juntos!
