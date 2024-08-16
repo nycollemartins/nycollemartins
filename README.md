@@ -54,7 +54,7 @@ Email: nycolleocmartins@gmail.com
 Telefone: (32)999776018
 
 
-🌐 Ferramentas:
+🌐 Habilidades:
 
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
